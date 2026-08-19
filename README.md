@@ -1,2 +1,1 @@
-# sample
-sample app
+# PRACTICE - SAMPLE APP
