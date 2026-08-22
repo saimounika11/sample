@@ -138,6 +138,7 @@
     <!-- Header -->
     <header>
         <h1>ABC Business</h1>
+        <h2> Marketing & Trading </h2>
 
         <nav>
             <a href="#home">Home</a>
